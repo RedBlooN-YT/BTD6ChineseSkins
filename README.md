@@ -6,6 +6,6 @@
 ChineseSkins
 </h1>
 
-Adds the skins from the chinese edition of the game. This mod was originally made by TheMagax, This mod simply is an updated version so that the skins work in the current version of BTD6 but credit to TheMegax for basically all of the code
+Adds the skins from the chinese edition of the game. This mod was originally made by TheMegax, This mod simply is an updated version so that the skins work in the current version of BTD6 but credit to TheMegax for basically all of the code
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
