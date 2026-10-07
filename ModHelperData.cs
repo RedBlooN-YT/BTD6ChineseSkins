@@ -5,9 +5,9 @@ namespace ChineseSkins
 {
 	public static class ModHelperData
 	{
-		public const string WorksOnVersion = "55.2";
+		public const string WorksOnVersion = "57.0";
 
-		public const string Version = "2.0.0";
+		public const string Version = "2.0.1";
 
 		public const string Name = "Chinese Skins";
 
