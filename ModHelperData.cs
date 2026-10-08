@@ -7,7 +7,7 @@ namespace ChineseSkins
 	{
 		public const string WorksOnVersion = "57.0";
 
-		public const string Version = "2.0.1";
+		public const string Version = "2.0.2";
 
 		public const string Name = "Chinese Skins";
 
